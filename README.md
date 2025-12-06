@@ -23,7 +23,7 @@ My work also covers query optimization for large-scale datasets and experience w
 ---
 
 ### 📊 GitHub Stats
-![Cleber's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberaksenen&show_icons=true&theme=cobalt)
+![Cleber's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberfurtado&show_icons=true&theme=cobalt)
 
 ---
 
